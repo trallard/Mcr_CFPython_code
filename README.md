@@ -23,7 +23,7 @@ In order to access this follow the next instructions:
 
 - Create a [GitHub](https://github.com) account
 - Log into your personal account
-- Go to [https://github.com/trallard/Mcr_CodeFirst_Python](https://github.com/trallard/Mcr_CodeFirst_Python),
+- Go to [https://github.com/trallard/Mcr_CFPython_code](https://github.com/trallard/Mcr_CFPython_code),
 click on the green "clone or download" button and copy the URL in the box.
 - Open GitKraken and click on the folder icon on the top left to bring up the **Repository Management** dialog.
 - Click **Clone**, **Clone with URL** and paste the URL in the box. Choose the "Where to clone to" in a
