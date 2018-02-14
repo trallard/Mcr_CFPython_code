@@ -1,4 +1,4 @@
-<img src='./assets/CFG-logo.png' width='300px'>
+<img src='./assets/CF-logo.png' width='300px'>
 <img src='./assets/manchester.png' width='300px'>
 
 # Code First Girls: Advanced Python course at the University of Manchester
