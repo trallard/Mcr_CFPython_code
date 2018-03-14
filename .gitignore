@@ -1,2 +1,15 @@
 
 \.DS_Store
+
+
+.DS_Store
+.sass-cache/*
+.vscode
+.idea/*
+
+# Own HTML file for quickly seeing a slide quickly
+single.html
+
+config.*
+
+session5/CFG_app/helpers/__pycache__/
